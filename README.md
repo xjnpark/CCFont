@@ -12,7 +12,7 @@
 ### Results
 ---
  <img src = "https://user-images.githubusercontent.com/62954678/184543239-81a8aa0d-5d64-4c8e-9158-5f7aabe800cc.png" width="1000" height = "400">  
-<p> #### Sample output images of the TC characters generated</p> 
+<p><center> #### Sample output images of the TC characters generated </center></p> 
 
 <img src = "https://user-images.githubusercontent.com/62954678/184543559-1a8a9875-5266-40d9-8af9-e1de49511072.png" width="1000" height = "400">
 
