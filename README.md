@@ -1,4 +1,4 @@
-# CCFont : Component-Based Chinese Font Generation Model using GANs  
+# CCFont : Component Based Chinese Font Generation Model  
 
 #### Park, J.; Hassan, A.U.; Choi,J. CCFont: Component-BasedChinese Font Generation ModelUsing Generative AdversarialNetworks (GANs).Appl. Sci.2022,12,8005.  https://doi.org/10.3390/app12168005
 
